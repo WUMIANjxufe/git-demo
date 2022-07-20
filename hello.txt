@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello GIT3!
 hello GIT3!
 hello GIT3!
@@ -7,3 +8,14 @@ hello GIT3!
 hello GIT3!
 hello GIT3!
 hello GIT3!
+=======
+hello GIT  fixed
+hello GIT
+hello GIT
+hello GIT
+hello GIT
+hello GIT
+hello GIT
+hello GIT  master test
+hello GIT
+>>>>>>> hot-fix
